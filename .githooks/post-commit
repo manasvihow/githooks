@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- CHOOSE YOUR LAUGH TRACK ---
-# Change the filename in the line below to your favorite sound file.
+# Change the filename in the line below to your sound file.
 # It must be located in the .githooks/sounds/ folder.
 THE_ONE_LAUGH="laugh-1.mp3"
 

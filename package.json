@@ -1,5 +1,5 @@
 {
-  "name": "install-sitcommit",
+  "name": "@yeetutils/sitcommit",
   "version": "1.0.0",
   "description": "A CLI to install a fun laugh track git hook in any repository.",
   "main": "installer.js",

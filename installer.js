@@ -8,7 +8,7 @@ const { execSync } = require('child_process');
 // --- Configuration ---
 // !!! IMPORTANT !!!
 // Replace this with the RAW GitHub URL to your chosen laugh track.
-const SOUND_FILE_URL = "https://github.com/manasvihow/githooks/blob/master/.githooks/sounds/laugh-1.mp3";
+const SOUND_FILE_URL = "https://github.com/manasvihow/githooks/raw/master/.githooks/sounds/laugh-1.mp3";
 const SOUND_FILENAME = "laugh-1.mp3"; // The name it will be saved as.
 
 // The content of the hook script we will create.
@@ -74,6 +74,7 @@ async function main() {
 
     logSuccess('Laugh track hook installed successfully!');
     log('Make a commit to test it out. You deserve a laugh.');
+    process.exit(0);
 
   } catch (error) {
     if (error.message.includes('not a git repository')) {
