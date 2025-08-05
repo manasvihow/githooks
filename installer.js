@@ -8,8 +8,8 @@ const { execSync } = require('child_process');
 // --- Configuration ---
 // !!! IMPORTANT !!!
 // Replace this with the RAW GitHub URL to your chosen laugh track.
-const SOUND_FILE_URL = "https://github.com/your-username/your-repo/raw/main/.githooks/sounds/laugh-1.mp3";
-const SOUND_FILENAME = "laugh-track.mp3"; // The name it will be saved as.
+const SOUND_FILE_URL = "https://github.com/manasvihow/githooks/blob/master/.githooks/sounds/laugh-1.mp3";
+const SOUND_FILENAME = "laugh-1.mp3"; // The name it will be saved as.
 
 // The content of the hook script we will create.
 const HOOK_SCRIPT_CONTENT = `#!/bin/bash
