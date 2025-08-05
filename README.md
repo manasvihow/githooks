@@ -54,4 +54,4 @@ The installer places the sound file at `.git/sounds/laugh-1.mp3` within your pro
 
 -----
 
-*A project by Manasvi.*
+*A project by [manasvihow](https://github.com/manasvihow)*
