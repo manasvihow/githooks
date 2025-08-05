@@ -52,6 +52,13 @@ Want to use your own sound? Easy\!
 
 The installer places the sound file at `.git/sounds/laugh-1.mp3` within your project. You can replace this file with your own audio by saving it to the same location with the same name.
 
+## Acknowledgements
+
+The classic laugh track audio used in this project was sourced from YouTube.
+
+* **Source:** [Sitcom Laugh Track](https://youtu.be/4VTBMznLrWs)
+* **Creator:** [SamGordonRHK](https://www.youtube.com/@samgordonrhk5821)
+
 -----
 
 *A project by [manasvihow](https://github.com/manasvihow)*
