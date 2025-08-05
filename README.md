@@ -50,7 +50,7 @@ git commit -m "This commit deserves an audience"
 
 Want to use your own sound? Easy\!
 
-The installer places the sound file at `.git/sound/laugh-1.mp3` within your project. You can replace this file with your own audio by saving it to the same location with the same name.
+The installer places the sound file at `.git/sounds/laugh-1.mp3` within your project. You can replace this file with your own audio by saving it to the same location with the same name.
 
 -----
 
